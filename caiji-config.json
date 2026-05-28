@@ -1,7 +1,7 @@
 {
-  "enabled": true,
+  "enabled": flase,
   "startTime": "2026-04-12T00:00:00+08:00",
-  "endTime": "2026-06-12T23:59:59+08:00",
-  "version": 2,
+  "endTime": "2026-05-28T17:59:59+08:00",
+  "version": 3,
   "message": "ok"
 }
