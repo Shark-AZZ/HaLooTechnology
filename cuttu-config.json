@@ -14,6 +14,7 @@
     { "key": "HALOO-2026-0513-0012-SAHFJK", "mac": "9C:8C:D8:12:3E:86" },
     { "key": "HALOO-2026-0622-0013-CJDKBC", "mac": "44:90:BA:C5:B8:B8" },
     { "key": "HALOO-2026-0707-0014-HDVIOE", "mac": "46:90:BA:24:7A:CE" },
-    { "key": "HALOO-2026-0715-0015-HDDCOE", "mac": "44:90:BA:24:78:0A" }
+    { "key": "HALOO-2026-0715-0015-HDDCOE", "mac": "44:90:BA:24:78:0A" },
+    { "key": "HALOO-2026-0720-0016-HONCOE", "mac": "" }
   ]
 }
