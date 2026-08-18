@@ -1,2 +1,2 @@
-# HaLooTechnology-License
+# HaLooTechnology
 HaLooTechnology-License
