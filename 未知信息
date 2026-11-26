@@ -1,1 +1,4 @@
-
+{
+  "activation": "gAAAAABrB6yCMpNfiTG5H1jGvheV5JjKfOVJJCA21XGmn5yS6o9K1g6EdFIRLP_XM0nboC2VLvZtd1xWNaCs4eRmfL6LHEvKxlxz8ObgxykFIKlgmfsgeXE=",
+  "precision_log": "AI自检结论：输出模型返回信息无法解析，可能与豆包大模型更新有关，需改写程序"
+}
