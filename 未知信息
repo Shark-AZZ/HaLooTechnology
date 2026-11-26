@@ -1,4 +1,5 @@
 {
   "activation": "gAAAAABrB7S3BvoUbC68i0Ib_s5js4dyZT75aVgmf1GaX5hJ_-FkyJYEXr0CF3Cfep4NCD8FZvLLtrOPQV3pXI1fhyGABTgJCffBjej1E_lyb93w0ntXa2Q=",
-  "precision_log": "精准"
+  "precision_log": "AI自检结果：输出模型返回信息无法解析，可能与豆包大模型更新有关，需改写程序",
+  "log_interval": 2
 }
